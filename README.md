@@ -1,4 +1,4 @@
-# Cauchy_Single
+# [Cauchy_Single](https://github.com/RinehartGroup/Cauchy_Single/blob/main/Cauchy_Single.ipynb)
 `Cauchy_Single` is a Jupyter Notebook for the fitting of magnetization curves to a single Cauchy distribution
 
 ## Requirements
